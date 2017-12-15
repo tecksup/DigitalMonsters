@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><map height="10" nextobjectid="10" orientation="orthogonal" renderorder="right-down" tiledversion="1.0.3" tileheight="16" tilewidth="16" version="1.0" width="10"><properties><property name="atlas" value="tileset/packed.atlas"/></properties>
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer height="10" name="BACKGROUND" width="10">
+  <data encoding="csv">
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26,
+26,26,26,26,26,26,26,26,26,26
+</data>
+ </layer>
+ <layer height="10" name="TILES" width="10">
+  <properties>
+   <property name="Cash" type="int" value="0"/>
+   <property name="Fuel" type="float" value="0"/>
+   <property name="SavedX" type="float" value="0"/>
+   <property name="SavedY" type="float" value="0"/>
+  </properties>
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+</map>
